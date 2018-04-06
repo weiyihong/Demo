@@ -1,5 +1,5 @@
 -- ----------------------------
--- Table structure for TM_USER
+-- Table structure for T_USER
 -- ----------------------------
 DROP TABLE IF EXISTS `T_USER`;
 CREATE TABLE `T_USER` (
