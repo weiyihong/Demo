@@ -7,6 +7,11 @@ import org.layz.hw.mapper.TestMapper;
 import org.layz.hw.service.ITestBiz;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+/**
+ * 测试Biz实现类
+ * @author w
+ *
+ */
 @Service
 public class TestBiz implements ITestBiz{
 	@Autowired
